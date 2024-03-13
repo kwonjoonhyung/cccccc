@@ -27,5 +27,7 @@ public class AppConfig {
         return new FixDiscountPolicy();
     }
 
-
+    public int gitAddTest(){
+        return 0;
+    }
 }
